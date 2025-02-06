@@ -43,7 +43,7 @@
 <br/>
 
 <a href="https://github.com/ferreira-eric" title="Perfil do Eric">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreira-eric&show_icons=true&theme=dark&locale=en" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreira-eric&show_icons=true&theme=dark&locale=en&rank_icon=github" />
   <!– <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreira-eric&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 
