@@ -22,17 +22,17 @@
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)<br><br><br/>
 
-<br/>
-
+<!--  
 <a href="https://github.com/ferreira-eric" title="Perfil do Eric">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreira-eric&show_icons=true&theme=dark&locale=en&rank_icon=github" />
   <!– <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreira-eric&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 
-![Snake animation](https://github.com/ferreira-eric/ferreira-eric/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://github.com/ferreira-eric/ferreira-eric/blob/output/github-contribution-grid-snake.svg)
+-->
 ## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eric-ferreira-dev/)
